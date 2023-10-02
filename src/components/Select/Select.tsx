@@ -1,6 +1,6 @@
 import React from "react";
-import { EquipamentType } from "../../class/EquipmentType";
-import { State } from "../../class/State";
+import { EquipamentType } from "../../Class/EquipmentType";
+import { State } from "../../Class/State";
 interface SelectProps {
   placeholder: string;
   options: string[];

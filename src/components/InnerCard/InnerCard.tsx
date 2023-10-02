@@ -1,8 +1,8 @@
 import { CheckFat, MapPinLine, Pause, Wrench } from "@phosphor-icons/react";
 import React, { useContext } from "react";
-import { Equipament } from "../../class/Equipment";
-import { EquipamentType } from "../../class/EquipmentType";
-import { State, StateEnum } from "../../class/State";
+import { Equipament } from "../../Class/Equipment";
+import { EquipamentType } from "../../Class/EquipmentType";
+import { State, StateEnum } from "../../Class/State";
 import { setStateIcon } from "../../utils/setStateIcon";
 
 interface InnerProps {

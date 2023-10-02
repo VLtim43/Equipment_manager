@@ -6,8 +6,8 @@ import classNames from "classnames";
 import { CaretDown } from "@phosphor-icons/react";
 import { ScrollAreaComp } from "../Scroll/Scroll";
 import { PositionComp } from "../PositionComp/PositionComp";
-import { State } from "../../class/State";
-import { Equipament } from "../../class/Equipment";
+import { State } from "../../Class/State";
+import { Equipament } from "../../Class/Equipment";
 
 interface AccordeonProps {
   equipment: Equipament;

@@ -1,7 +1,7 @@
-import equipmentDataJson from "../../../data/equipment.json";
+import equipmentDataJson from "../../data/equipment.json";
 const equipmentData: any[] = equipmentDataJson;
 
-import { Equipament } from "../class/Equipment";
+import { Equipament } from "../Class/Equipment";
 import { getPositionsForEquipment } from "./setPosition";
 import { getStatesForEquipment } from "./setStates";
 

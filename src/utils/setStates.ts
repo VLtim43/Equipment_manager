@@ -1,5 +1,5 @@
-import { State } from "../class/State";
-import stateDataJson from "../../../data/equipmentStateHistory.json";
+import { State } from "../Class/State";
+import stateDataJson from "../../data/equipmentStateHistory.json";
 
 const stateData: any[] = stateDataJson;
 

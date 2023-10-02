@@ -1,5 +1,5 @@
 import { CheckFat, Pause, Wrench } from "@phosphor-icons/react";
-import { StateEnum } from "../class/State";
+import { StateEnum } from "../Class/State";
 
 export function setStateIcon(state: string, small: boolean) {
   let iconComponent = null;

@@ -1,6 +1,6 @@
 import { Icon } from "leaflet";
 import { Marker, Popup } from "react-leaflet";
-import { Equipament } from "../../class/Equipment";
+import { Equipament } from "../../Class/Equipment";
 import { setIcon } from "../../utils/setIcon";
 import { Card } from "../Card/Card";
 import { PopUpComponent } from "../PopUpComponent/PopUpComponent";

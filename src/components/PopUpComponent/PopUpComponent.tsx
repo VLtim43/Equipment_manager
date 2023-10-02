@@ -1,6 +1,6 @@
 import React from "react";
 import { Popup } from "react-leaflet";
-import { Equipament } from "../../class/Equipment";
+import { Equipament } from "../../Class/Equipment";
 import { AlertDialog } from "../Alert/Alert";
 import { InnerCard } from "../InnerCard/InnerCard";
 

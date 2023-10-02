@@ -1,7 +1,7 @@
 //@ts-nocheck
 import { ClockCounterClockwise, XSquare } from "@phosphor-icons/react";
 import * as Dialog from "@radix-ui/react-dialog";
-import { Equipament } from "../../class/Equipment";
+import { Equipament } from "../../Class/Equipment";
 import { PositionComp } from "../PositionComp/PositionComp";
 import { ScrollAreaComp } from "../Scroll/Scroll";
 

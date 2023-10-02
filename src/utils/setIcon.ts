@@ -1,5 +1,5 @@
-import { TypeEnum } from "../class/EquipmentType";
-import { StateEnum } from "../class/State";
+import { TypeEnum } from "../Class/EquipmentType";
+import { StateEnum } from "../Class/State";
 
 export function setIcon(equipmentType: string, state?: string) {
   switch (equipmentType) {

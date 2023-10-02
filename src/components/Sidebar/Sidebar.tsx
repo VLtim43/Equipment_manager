@@ -3,9 +3,9 @@ import { ScrollAreaComp } from "../Scroll/Scroll";
 import { Select } from "../Select/Select";
 
 import { useState } from "react";
-import { StateEnum } from "../../class/State";
-import { TypeEnum } from "../../class/EquipmentType";
 import { Equipament } from "../../Class/Equipment";
+import { TypeEnum } from "../../Class/EquipmentType";
+import { StateEnum } from "../../Class/State";
 
 interface SidebarProps {
   equipments: Equipament[];

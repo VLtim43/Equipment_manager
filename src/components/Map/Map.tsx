@@ -1,6 +1,6 @@
 import React from "react";
 import { MapContainer, TileLayer } from "react-leaflet";
-import { Equipament } from "../../class/Equipment";
+import { Equipament } from "../../Class/Equipment";
 import { createEquipmentArray } from "../../utils/equipmentList";
 import { MarkerComponent } from "../Marker/Marker";
 

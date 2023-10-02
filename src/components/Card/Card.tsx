@@ -1,5 +1,5 @@
 import React from "react";
-import { Equipament } from "../../class/Equipment";
+import { Equipament } from "../../Class/Equipment";
 import { Accordeon } from "../Accordeon/Accordeon";
 import { InnerCard } from "../InnerCard/InnerCard";
 
